@@ -1,7 +1,5 @@
 ##  cd my drive/a-levels/cs/cs nea
 
-
-
 def intInput(prompt):
 	userInput = input(prompt)
 	if bool(userInput) == True:
